@@ -1,0 +1,39 @@
+body {
+background-color: rgb(25, 25, 25);
+color: white;
+font-family: Arial;
+}
+
+.soraa {
+    height: 50px;
+}
+
+.p1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bto {
+    background-color: transparent;
+    border: 3px solid white;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right: 12px;
+    margin-bottom: 25px;
+}
+
+.pp {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pp1 {
+    margin-bottom: 60px;
+}
+
+.resetbto {
+    font-size: 15px;
+    padding: 8px 15px;
+    border: none;
+}
